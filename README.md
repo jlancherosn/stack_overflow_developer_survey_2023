@@ -10,9 +10,9 @@ This project have the proposed to explore the tools that programmers are using t
 There is a Python notebook where the above questions are developed, the data was taken from Stack Overflow Annual Developer Survey 2023 site: https://survey.stackoverflow.co/
 
 Data files used in the notebook are the ``.csv`` files ``survey_results_public`` which contains the results of the survey as arrows and 
-the ``survey_results_schema`` with the metadata of the survey. Along with these, yo will find the ```README_2023.txt`` and ``so_survey_2023.pdf`` if you want more detail about data provided from Stack Overflow site.
+the ``survey_results_schema`` with the metadata of the survey. Along with these, yo will find the ``README_2023.txt`` and ``so_survey_2023.pdf`` if you want more detail about data provided from Stack Overflow site.
 
 ## How to interact
+To run the code you can download the .ipynb file and then open it as Jupyter notebook join with the data files in csv format. In the notebook are separated sections to guide you in the development of the analysis and the linear regression final model. Some questions that yow will find in the notebook are: what is the most popular language? What another tools Java and python developers work with? What are roles of developers that use each language? Finally, and as a preamble, the comparison between salaries, where if you are thinking in Python maybe will useful for you to see it.
 
-To run the code you can download the .ipynb file and then open it as Jupyter notebook join with the data file in csv format.
 All acknowledgement to Stack Overflow for the data, the data is free access on their site. You ae free of use the code of this repository as you want.
